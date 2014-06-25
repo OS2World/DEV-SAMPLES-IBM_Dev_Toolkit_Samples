@@ -1,0 +1,7 @@
+
+This package updates IBM Developer's Toolkit for OS/2 v 4.50 and 4.51 to the
+current level (4.52 with HIGHMEM update). To install it, copy the entire
+directory structure over your existing Toolkit setup.
+
+New content added since 4.50 includes the OMF and LX executable format
+documentation (BOOK\OMFREF.HTM and BOOK\LXREF.HTM).
