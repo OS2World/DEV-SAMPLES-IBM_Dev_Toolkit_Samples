@@ -874,4 +874,3 @@ SOM_Scope ULONG   SOMLINK wsfoldM_wpclsQueryStyle(M_WSFOLDER *somSelf)
 
 
 
-
